@@ -1,7 +1,3 @@
-Chocolatey package for managing the CircleCI-cli tool.
+This repository has been moved to 
 
-## How to use
-
-```powershell
-choco install circleci-cli -y
-```
+https://github.com/CircleCI-Public/chocolatey-circleci-cli
